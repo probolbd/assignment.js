@@ -10,7 +10,7 @@ function kilometerToMeter(kilometer) {
     }  
 }
 var input= kilometerToMeter(5);
-// console.log(input);
+
 
 // #Problem-2
 function budgetCalculator(ghori, phone, laptop){
@@ -26,7 +26,7 @@ function budgetCalculator(ghori, phone, laptop){
         }  
 }
 var buyQuantity = budgetCalculator(1, 10, 0);
-// console.log(buyQuantity);
+
 
 // #Problem-3
 function hotelCost(day){
@@ -50,7 +50,7 @@ function hotelCost(day){
     }
 }
 var totalrent=hotelCost(9);
-// console.log(totalrent);
+
 
 // #Problem-4
 function megaFriend(){
@@ -67,4 +67,3 @@ function megaFriend(){
       return longest;
 }
 var output= megaFriend()
-//   console.log(output);
